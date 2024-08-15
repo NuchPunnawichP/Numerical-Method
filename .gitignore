@@ -1,0 +1,7 @@
+*.exe
+0.cpp
+0.c
+0.py
+0.ipynb
+
+.vscode
